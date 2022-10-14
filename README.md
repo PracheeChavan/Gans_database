@@ -1,2 +1,2 @@
 # Gans_database
-All the code snippets are available here for my first data engineering project gans
+My first data engineering project at data Science Bootcamp, named "Gans" code snippets
